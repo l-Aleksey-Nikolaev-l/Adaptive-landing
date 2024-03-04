@@ -1,0 +1,1 @@
+function header () {    return `    <header class='header'>      <img src="/assets/image23.jpg" alt="squared floor">    </header>  `;}
