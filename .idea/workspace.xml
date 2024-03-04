@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b85be65-8152-4dcd-9625-bed5b4c92d1e" name="Changes" comment="0.0.0 - Initial" />
+    <list default="true" id="3b85be65-8152-4dcd-9625-bed5b4c92d1e" name="Changes" comment="0.0.1&#10;Added empty files">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +16,30 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "l-Aleksey-Nikolaev-l"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5280a635-9c35-4131-a9d3-b1b90abdb463" />
+        <option name="url" value="https://github.com/l-Aleksey-Nikolaev-l/Adaptive-landing.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -37,6 +58,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/aleksey/Documents/Development/Web/Adaptive landing",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709564665691</updated>
       <workItem from="1709564666789" duration="438000" />
-      <workItem from="1709565142852" duration="12000" />
+      <workItem from="1709565142852" duration="336000" />
     </task>
     <task id="LOCAL-00001" summary="0.0.0 - Initial">
       <option name="closed" value="true" />
@@ -64,7 +86,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709565021124</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="0.0.0 - Initial">
+      <option name="closed" value="true" />
+      <created>1709565207915</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709565207915</updated>
+    </task>
+    <task id="LOCAL-00003" summary="0.0.1&#10;Added empty files">
+      <option name="closed" value="true" />
+      <created>1709565393095</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709565393095</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +124,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="0.0.0 - Initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.0.0 - Initial" />
+    <MESSAGE value="0.0.1&#10;Added empty files" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.0.1&#10;Added empty files" />
   </component>
 </project>
